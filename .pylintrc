@@ -1,0 +1,24 @@
+[pylint]
+disable=
+    bad-indentation,
+    bare-except,
+    consider-using-f-string,
+    invalid-name,
+    missing-class-docstring,
+    missing-module-docstring,
+    multiple-statements,
+    no-self-use,
+    simplifiable-if-statement,
+    singleton-comparison,
+    too-many-locals,
+    too-many-nested-blocks,
+    trailing-newlines,
+    trailing-whitespace,
+    unnecessary-semicolon,
+    unspecified-encoding,
+good-names=
+    template-python
+ignore=
+    __init__.py,
+notes=
+    FIXME,
