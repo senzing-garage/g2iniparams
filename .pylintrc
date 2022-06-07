@@ -4,6 +4,7 @@ disable=
     bare-except,
     consider-using-f-string,
     invalid-name,
+    line-too-long,
     missing-class-docstring,
     missing-module-docstring,
     multiple-statements,
@@ -14,8 +15,10 @@ disable=
     too-many-nested-blocks,
     trailing-newlines,
     trailing-whitespace,
+    unknown-option-value,
     unnecessary-semicolon,
     unspecified-encoding,
+    unused-argument,
 good-names=
     template-python
 ignore=
