@@ -8,7 +8,6 @@ disable=
     missing-class-docstring,
     missing-module-docstring,
     multiple-statements,
-    no-self-use,
     simplifiable-if-statement,
     singleton-comparison,
     too-many-locals,
