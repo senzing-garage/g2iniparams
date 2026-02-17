@@ -5,16 +5,16 @@
     "Analysing",
     "CCLA",
     "CODEOWNER",
-    "ICLA",
-    "Senzing",
+    "cooldown",
     "esbenp",
+    "ICLA",
     "iniparams",
+    "kernelsam",
     "pylint",
+    "Senzing",
     "shellcheck",
     "simplifiable",
     "stackoverflow"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
